@@ -20,12 +20,6 @@ Example:  "wss://rinkeby.infura.io/v3/1231231231231231231231231232";  //wss stan
 
 If you plan to use infura.io, go to https://infura.io make an account there and you'll get an API Key
 
-## Examples
-
-Take a look at the tests: 
-https://gitlab.com/AndreiDD/miniblockchainapijava/tree/master/src/test/java/com/dan/xeth
-
-
 ### Getting the balance of ETH
 
 ~~~~
